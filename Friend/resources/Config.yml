@@ -1,0 +1,6 @@
+# 登録可能なフレンドの最大数, -1 で無制限
+max_friend: -1
+# フレンドへのテレポート, true で有効、false で無効
+teleport: true
+# フレンドリーファイア, true で有効、false で無効
+friendly_fire: false
